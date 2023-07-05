@@ -2,12 +2,12 @@
 O projeto foi desenvolvido utilizando as tecnologias Java, JSP, jQuery e Servlets. 
 O objetivo principal deste projeto é demonstrar a implementação de um sistema web dinâmico e interativo.
 
-### Visão Geral
+## Visão Geral
 O projeto consiste em um aplicativo web que permite aos usuários realizar determinadas ações de forma eficiente. 
 Ele utiliza o padrão arquitetural Modelo-Visão-Controlador (MVC), com a linguagem de programação Java no backend e 
 tecnologias web no frontend.
 
-### Funcionalidades Principais
+## Funcionalidades Principais
 
 O aplicativo possui as seguintes funcionalidades principais:
 

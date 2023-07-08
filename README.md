@@ -12,7 +12,7 @@ O aplicativo possui as seguintes funcionalidades principais:
 
 1.**Autenticação de Usuários:** Permite que os usuários façam login no sistema e acessem suas contas.
 
-2.**Gestão de Dados:** Os usuários podem inserir, visualizar, atualizar e excluir dados no sistema. 
+2.**Gestão de Dados:** Os usuários podem inserir, visualizar, atualizar, fazer download de arquivos e excluir dados no sistema. 
 Essas ações são realizadas por meio de formulários intuitivos e interativos.
 
 3.**Interação em Tempo Real:** Utilizando o jQuery, o aplicativo permite interações em tempo real com os usuários, 

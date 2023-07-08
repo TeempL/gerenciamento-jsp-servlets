@@ -1,6 +1,5 @@
 # Projeto javaWeb
-O projeto foi desenvolvido utilizando as tecnologias Java, JSP, jQuery e Servlets. 
-O objetivo principal deste projeto é demonstrar a implementação de um sistema web dinâmico e interativo.
+O projeto foi desenvolvido utilizando as tecnologias Java, JSP, jQuery e Servlets.
 
 ## Visão Geral
 O projeto consiste em um aplicativo web que permite aos usuários realizar determinadas ações de forma eficiente. 

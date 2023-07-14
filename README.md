@@ -29,7 +29,7 @@ executar a lógica de negócios necessária e retornar as respostas adequadas.
 
 3. **JSP**
 
-4. **JDCB**
+4. **JDBC**
 
 5. **Servlets**
 

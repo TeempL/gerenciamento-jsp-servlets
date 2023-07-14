@@ -1,5 +1,5 @@
 # Projeto javaWeb
-O projeto foi desenvolvido utilizando Java, JDBC,JSP, jQuery e Servlets.
+O projeto foi desenvolvido utilizando Java, JDBC, JSP, jQuery e Servlets.
 
 ## Visão Geral
 O projeto consiste em um aplicativo web que permite aos usuários realizar determinadas ações de forma eficiente. 

@@ -1,5 +1,5 @@
 # Projeto javaWeb
-O projeto foi desenvolvido utilizando Java, JSP e Servlets.
+O projeto foi desenvolvido utilizando Java, JDBC,JSP, jQuery e Servlets.
 
 ## Visão Geral
 O projeto consiste em um aplicativo web que permite aos usuários realizar determinadas ações de forma eficiente. 
@@ -21,17 +21,12 @@ como atualização de informações sem a necessidade de recarregar a página.
 4.**Processamento de Requisições:** Os Servlets são utilizados para processar as requisições do cliente, 
 executar a lógica de negócios necessária e retornar as respostas adequadas.
 
-## Tecnologias ultilizadas
+## Versões ultilizadas
 
 1. **Java: 17**
 
 2. **jQuery 3.7.0**
 
-3. **JSP**
-
-4. **JDBC**
-
-5. **Servlets**
 
 ## DEMO VIDEO
 

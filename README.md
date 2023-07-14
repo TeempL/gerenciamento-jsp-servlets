@@ -21,6 +21,17 @@ como atualização de informações sem a necessidade de recarregar a página.
 4.**Processamento de Requisições:** Os Servlets são utilizados para processar as requisições do cliente, 
 executar a lógica de negócios necessária e retornar as respostas adequadas.
 
+## Tecnologias ultilizadas
+
+1. **Java: 17**
+
+2. **jQuery 3.7.0**
+
+3. **JSP**
+
+4.**JDCB**
+
+5. **Servlets**
 
 ## DEMO VIDEO
 
